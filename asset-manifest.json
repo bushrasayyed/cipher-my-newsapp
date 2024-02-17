@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cipher-my-newsapp/static/css/main.dc4d6ff2.css",
+    "main.js": "/cipher-my-newsapp/static/js/main.90c56f57.js",
+    "static/js/453.0bf92ad2.chunk.js": "/cipher-my-newsapp/static/js/453.0bf92ad2.chunk.js",
+    "index.html": "/cipher-my-newsapp/index.html",
+    "main.dc4d6ff2.css.map": "/cipher-my-newsapp/static/css/main.dc4d6ff2.css.map",
+    "main.90c56f57.js.map": "/cipher-my-newsapp/static/js/main.90c56f57.js.map",
+    "453.0bf92ad2.chunk.js.map": "/cipher-my-newsapp/static/js/453.0bf92ad2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.90c56f57.js"
+  ]
+}
